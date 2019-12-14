@@ -1,0 +1,12 @@
+D:\Project\Project.Common\bin\Debug\netcoreapp2.2\Project.Common.deps.json
+D:\Project\Project.Common\bin\Debug\netcoreapp2.2\Project.Common.dll
+D:\Project\Project.Common\bin\Debug\netcoreapp2.2\Project.Common.pdb
+D:\Project\Project.Common\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Core.dll
+D:\Project\Project.Common\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Core.xml
+D:\Project\Project.Common\obj\Debug\netcoreapp2.2\Project.Common.csprojAssemblyReference.cache
+D:\Project\Project.Common\obj\Debug\netcoreapp2.2\Project.Common.csproj.CoreCompileInputs.cache
+D:\Project\Project.Common\obj\Debug\netcoreapp2.2\Project.Common.AssemblyInfoInputs.cache
+D:\Project\Project.Common\obj\Debug\netcoreapp2.2\Project.Common.AssemblyInfo.cs
+D:\Project\Project.Common\obj\Debug\netcoreapp2.2\Project.Common.csproj.CopyComplete
+D:\Project\Project.Common\obj\Debug\netcoreapp2.2\Project.Common.dll
+D:\Project\Project.Common\obj\Debug\netcoreapp2.2\Project.Common.pdb

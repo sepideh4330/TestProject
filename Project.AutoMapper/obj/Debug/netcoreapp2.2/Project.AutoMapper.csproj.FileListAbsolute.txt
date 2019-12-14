@@ -1,0 +1,16 @@
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.AutoMapper.deps.json
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.AutoMapper.dll
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.AutoMapper.pdb
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.Common.dll
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.DomainClasses.dll
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.Dto.dll
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.DomainClasses.pdb
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.Dto.pdb
+D:\Project\Project.AutoMapper\bin\Debug\netcoreapp2.2\Project.Common.pdb
+D:\Project\Project.AutoMapper\obj\Debug\netcoreapp2.2\Project.AutoMapper.csprojAssemblyReference.cache
+D:\Project\Project.AutoMapper\obj\Debug\netcoreapp2.2\Project.AutoMapper.csproj.CoreCompileInputs.cache
+D:\Project\Project.AutoMapper\obj\Debug\netcoreapp2.2\Project.AutoMapper.AssemblyInfoInputs.cache
+D:\Project\Project.AutoMapper\obj\Debug\netcoreapp2.2\Project.AutoMapper.AssemblyInfo.cs
+D:\Project\Project.AutoMapper\obj\Debug\netcoreapp2.2\Project.AutoMapper.csproj.CopyComplete
+D:\Project\Project.AutoMapper\obj\Debug\netcoreapp2.2\Project.AutoMapper.dll
+D:\Project\Project.AutoMapper\obj\Debug\netcoreapp2.2\Project.AutoMapper.pdb

@@ -1,0 +1,16 @@
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.DataLayer.deps.json
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.DataLayer.runtimeconfig.json
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.DataLayer.runtimeconfig.dev.json
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.DataLayer.dll
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.DataLayer.pdb
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.Common.dll
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.DomainClasses.dll
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.Common.pdb
+D:\Project\Project.DataLayer\bin\Debug\netcoreapp2.2\Project.DomainClasses.pdb
+D:\Project\Project.DataLayer\obj\Debug\netcoreapp2.2\Project.DataLayer.csprojAssemblyReference.cache
+D:\Project\Project.DataLayer\obj\Debug\netcoreapp2.2\Project.DataLayer.csproj.CoreCompileInputs.cache
+D:\Project\Project.DataLayer\obj\Debug\netcoreapp2.2\Project.DataLayer.AssemblyInfoInputs.cache
+D:\Project\Project.DataLayer\obj\Debug\netcoreapp2.2\Project.DataLayer.AssemblyInfo.cs
+D:\Project\Project.DataLayer\obj\Debug\netcoreapp2.2\Project.DataLayer.csproj.CopyComplete
+D:\Project\Project.DataLayer\obj\Debug\netcoreapp2.2\Project.DataLayer.dll
+D:\Project\Project.DataLayer\obj\Debug\netcoreapp2.2\Project.DataLayer.pdb

@@ -1,0 +1,12 @@
+D:\Project\Project.DomainClasses\bin\Debug\netcoreapp2.2\Project.DomainClasses.deps.json
+D:\Project\Project.DomainClasses\bin\Debug\netcoreapp2.2\Project.DomainClasses.dll
+D:\Project\Project.DomainClasses\bin\Debug\netcoreapp2.2\Project.DomainClasses.pdb
+D:\Project\Project.DomainClasses\bin\Debug\netcoreapp2.2\Project.Common.dll
+D:\Project\Project.DomainClasses\bin\Debug\netcoreapp2.2\Project.Common.pdb
+D:\Project\Project.DomainClasses\obj\Debug\netcoreapp2.2\Project.DomainClasses.csprojAssemblyReference.cache
+D:\Project\Project.DomainClasses\obj\Debug\netcoreapp2.2\Project.DomainClasses.csproj.CoreCompileInputs.cache
+D:\Project\Project.DomainClasses\obj\Debug\netcoreapp2.2\Project.DomainClasses.AssemblyInfoInputs.cache
+D:\Project\Project.DomainClasses\obj\Debug\netcoreapp2.2\Project.DomainClasses.AssemblyInfo.cs
+D:\Project\Project.DomainClasses\obj\Debug\netcoreapp2.2\Project.DomainClasses.csproj.CopyComplete
+D:\Project\Project.DomainClasses\obj\Debug\netcoreapp2.2\Project.DomainClasses.dll
+D:\Project\Project.DomainClasses\obj\Debug\netcoreapp2.2\Project.DomainClasses.pdb
