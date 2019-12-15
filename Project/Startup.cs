@@ -58,7 +58,6 @@ namespace Project
                 optionsBuilder.UseInternalServiceProvider(serviceProvider); // It's added to access services from the dbcontext, remove it if you are using the normal `AddDbContext` and normal constructor dependency injection.
             });
 
-
             // Only needed for custom roles.
             services.AddAuthorization(auth =>
             {
